@@ -61,7 +61,7 @@ export default function Navbar() {
           <div className="hidden md:block">|</div>
           <div className="flex items-center gap-2">
             <Phone size={20} className="text-[#B00000]" />
-            <span>+2349067322844</span>
+            <span>+237671369673</span>
           </div>
         </div>
       </nav>

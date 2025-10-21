@@ -2,6 +2,7 @@ import CloudHosting from "@/components/CloudHosting"
 import Hero from "@/components/Hero"
 import Navbar from "@/components/Navbar"
 import Package from "@/components/Package"
+import RealStories from "@/components/RealStories"
 
 export default function Page(){
   return(
@@ -11,6 +12,7 @@ export default function Page(){
     <Hero></Hero>
     <CloudHosting/>
     <Package />
+    <RealStories />
 
    
     

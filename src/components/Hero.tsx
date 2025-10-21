@@ -27,7 +27,7 @@ export default function Hero() {
 
         {/* Hero heading */}
         <h1 className="text-4xl md:text-6xl font-poppins font-bold text-[#000000] leading-tight">
-          Premium Web <br /> Hosting for Your Website
+          Premium Web <br /> Hosting for <br /> Your Website
         </h1>
 
         <p className="text-[#D6D4D4]">Blazing fast web hosting for individuals and <br /> 
